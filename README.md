@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/amritgiri/amritgiri/blob/main/github-contribution-grid-snake.svg)](https://giriamrit.com.np)
+[![MasterHead](https://github.com/RyanIdris41/RyanIdris41/blob/main/github-contribution-grid-snake.svg)](https://RyanIdris41.com.np)
 # Hi there 👋, I'm RyanIdris41 :)
 
 # 💫 About Me:
