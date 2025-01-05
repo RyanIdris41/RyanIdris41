@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/RyanIdris41/RyanIdris41/blob/main/github-contribution-grid-snake.svg)](https://RyanIdris41.com.np)
 <h1 align="center">Hi 👋, I'm RyanIdris41</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanidris41&label=Profile%20views&color=0e75b6&style=flat" alt="ryanidris41" /> </p>
 
